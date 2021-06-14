@@ -1,0 +1,4 @@
+font-family: 'Noto Sans JP', sans-serif;
+
+Javascript pending
+    font-family: 'Signika', sans-serif;
